@@ -3,10 +3,8 @@
 ---------------------------------------------------
 
 adding OS  
-	Windows,Linux,Mac  
-	adding OS Version  
-		Win XP  
-		Win 2000  
+- Windows,Linux,Mac  
+	- adding OS Version  
 
 methods  
 	list_all_OS - Windows, Linux,  
